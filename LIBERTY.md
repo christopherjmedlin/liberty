@@ -1,21 +1,17 @@
-![George Whitefield](/images/late-colonial.jpeg)
+![The Declaration of Independence](/images/revolutionary.jpeg)
 
-George Whitefield, a preacher of the Great Awakening
+The Declaration of Independence
 
-## The English
+## United States of America
 
-Freedom expanded thanks to the rise of Lockean liberalism and the English Civil War, which had now spread to the colonies. It was still thought that true freedom could only be enjoyed by the rich and powerful, but the idea was challenged by the opposing idea that all Englishmen were entitled to certain rights. Freedom of expression and of religion were more commonplace than before, thanks to the Great Awakening and the John Peter Zenger trial. One had to own property in order to vote, as it was thought that people still living in their mother’s house would not make good voters. 
-Women’s freedom was severely limited by the patriarchal structure of English (and European) society, as coverture made sure that women surrendered all of their legal identity to their husband. They were also unable to vote or own property. 
-The freedom of blacks was limited by the existence of the slave trade, which had now grown to be a dependency of the colonies, even more than indentured servitude. Just like women, blacks could not vote in colonial society. The colonies would also continue to treat the Native Americans as if they were subhuman.
+In the colonies, freedom was now thought of as a universal entitlement. The authority of the government over its citizens was lessened significantly, as the colonies escaped the rule of their former monarchical government. Freedom of expression and of religion were now also considered by many in the colonies to be universal entitlements. One had to own property in order to vote, as it was thought that people still living in their mother’s house would not make good voters. In practice, freedom in the United States was hardly universal. 
+Women’s freedom was severely limited by the patriarchal structure of American society, as coverture made sure that women surrendered all of their legal identity to their husband. However, the concept of republican motherhood promoted women’s education and made their work more important. They were still unable to vote or own property. 
+The freedom of blacks was limited by the existence of the slave trade, which had now grown to be a dependency of the southern states, even more than indentured servitude. Many understood it to be evil, but considered it to be a necessary one. Just like women, blacks could not vote in American society. Americans would also continue to treat the Native Americans as if they were subhuman.
 
-### New England
+### The North
 
-They succeeded in recreating the patriarchal family structure of England, hurting womens’ freedom in the colonies.
+Slavery in the North was not as common as in the South, as northerners often owned smaller farms.
 
-### Chesapeake
+### The South
 
-The expansion of slavery within the Chesapeake colonies brought with it an oppresive and rigid class system. Essentially, freedom for those who did not own slaves was restricted, while those who held many had great power.
-
-## Native Americans
-
-Most Native American societies lacked concepts of class and race. For this reason, freedom was something that many people could enjoy, it often being the default way of life for many Indians. As a concept, it didn’t really exist for them.
+The prominence of slavery within the South brought with it an oppressive and rigid class system. Essentially, freedom for those who did not own slaves was restricted, while those who held many had great power.
